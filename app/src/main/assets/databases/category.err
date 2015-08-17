@@ -1,0 +1,23 @@
+/COM,ANSYS RELEASE 15.0    UP20131014       16:37:47    08/11/2015
+
+ *** ERROR ***                           CP =       0.781   TIME= 16:37:50
+ Data file C:\Users\Suleman Shakil\Google                                
+ Drive\Private\Development\Android                                       
+ Projects\MyMenu4\app\src\main\assets\databases\category.db has          
+ incorrect format, is missing READ/WRITE permission, or is empty for     
+ RESUME.                                                                 
+
+ *** WARNING ***                         CP =       0.781   TIME= 16:37:50
+ WHILE PROCESSING FILE BASED INPUT (/INPUT OR MACRO) AN ERROR HAS        
+ OCCURRED.  SHOULD INPUT PROCESSING BE SUSPENDED?                        
+
+ *** ERROR ***                           CP =       0.781   TIME= 16:38:59
+ An unexpected error ( SIG$BREAK ) has occurred...  ANSYS internal data  
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+
+ *** WARNING ***                         CP =       0.781   TIME= 16:38:59
+ WHILE PROCESSING FILE BASED INPUT (/INPUT OR MACRO) AN ERROR HAS        
+ OCCURRED.  SHOULD INPUT PROCESSING BE SUSPENDED?                        

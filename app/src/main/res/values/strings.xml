@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyMenu4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="drawer_open">open navigation drawer</string>
+    <string name="drawer_close">close navigation drawer</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="Income">Income</string>
+    <string name="Expense">Expense</string>
+
+
+    <string-array name="Picture_name_array">
+        <item>ic_food</item>
+        <item>ic_football</item>
+        <item>ic_car</item>
+        <item>ic_gift</item>
+        <item>ic_health</item>
+        <item>ic_house</item>
+        <item>ic_phone</item>
+        <item>ic_salary</item>
+        <item>ic_savings</item>
+        <item>ic_toiletry</item>
+        <item>ic_transport</item>
+        <item>ic_drinks</item>
+        <item>ic_deposit</item>
+        <item>ic_clothes</item>
+        <item>ic_eat</item>
+    </string-array>
+</resources>

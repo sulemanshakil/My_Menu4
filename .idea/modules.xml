@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyMenu4.iml" filepath="$PROJECT_DIR$/MyMenu4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpandroidchartlibrary-2-1-0/mpandroidchartlibrary-2-1-0.iml" filepath="$PROJECT_DIR$/mpandroidchartlibrary-2-1-0/mpandroidchartlibrary-2-1-0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqliteassethelper-2.0.1/sqliteassethelper-2.0.1.iml" filepath="$PROJECT_DIR$/sqliteassethelper-2.0.1/sqliteassethelper-2.0.1.iml" />
+    </modules>
+  </component>
+</project>
